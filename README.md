@@ -38,7 +38,7 @@ La función `limpiarPantalla()` se utiliza para borrar el contenido de la pantal
         document.getElementById('pantalla').value = '';
     }
 
-## Integración con HTML y CSS
+## Integración con HTML, CSS y Bootstrap
 
 Para utilizar estas funciones, asegúrate de tener un elemento HTML con el id "pantalla" que represente la pantalla de la calculadora. Puedes ver el código HTML y CSS correspondiente en los archivos proporcionados en el repositorio.
 
