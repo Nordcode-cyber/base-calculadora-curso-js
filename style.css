@@ -1,6 +1,9 @@
+body{
+  background-color: #505d80;
+}
 sbody {
   font-family: Arial, sans-serif;
-  background-color: #f2f2f2;
+  background-color: #1e41a1;
 }
 
 h1 {
@@ -11,13 +14,13 @@ h1 {
 h2 {
   text-align: center;
   margin-top: 10px;
-  color: #666;
+  color: #11d625;
 }
 
 .calculadora {
-  width: 314px;
+  width: 367px;
   margin: 0 auto;
-  background-color: #d7ddd9;
+  background-color: #d7d9dd;
   padding: 20px;
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -37,7 +40,7 @@ input[type="button"] {
   margin-right: 5px;
   margin-bottom: 5px;
   font-size: 16px;
-  background-color: #eee;
+  background-color: #d5d3d3;
   border: none;
   border-radius: 5px;
   cursor: pointer;
